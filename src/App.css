@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-flow: column;
+}
+
+.slider-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width:100%;
+}
+
+.slider {
+  width: 25%;
+}
+
+.chart {
+  height:100%;
+  width:100%;
+  max-width: 1000px;
+  margin-top: 15vh;
+}
+
+@media (max-width: 400px) {
+  .slider {
+    width: 50%;
+  }
+}
