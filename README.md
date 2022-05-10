@@ -1,5 +1,5 @@
 # React Break-even Visualization
-A simple and interactive app to visualize the percentage gain required to break-even from a drawdown, created with [Plotly.js](https://plotly.com/javascript/) and bootstrapped with Create React App
+A simple and interactive app to visualize the percentage gain required to break-even from a drawdown, created with [Highcharts](https://www.highcharts.com/) and bootstrapped with Create React App
 
 Try the live demo at https://sz-break-even-visualization.herokuapp.com/
 
